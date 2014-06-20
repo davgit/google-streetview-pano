@@ -1,0 +1,14 @@
+{
+  "name": "google-streetview-pano",
+  "version": "0.0.1",
+  "keywords": [
+    "google-maps",
+    "streetview",
+    "web-components",
+    "polymer"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "google-apis": "PolymerLabs/google-apis#master"
+  }
+}

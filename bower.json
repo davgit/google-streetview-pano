@@ -1,0 +1,7 @@
+{
+  "name": "google-streetview-pano#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-streetview-pano": "GoogleWebComponents/google-streetview-pano#master"
+  }
+}
